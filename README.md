@@ -14,9 +14,6 @@ https://github.com/user-attachments/assets/d5bfa724-0f85-4789-93c1-b7ec98a4a7d7
 
 > *Full walkthrough of the 6-page Streamlit app*
 
-https://github.com/user-attachments/assets/05d2ddaf-04c1-479a-b7a7-244ef672c121
-
-
 
 ---
 
