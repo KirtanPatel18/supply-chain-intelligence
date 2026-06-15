@@ -17,3 +17,13 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large model files
+models/late_delivery_model.pkl
+models/rf_late_delivery_model.pkl
+
+# Large processed data
+data/processed/cleaned_supply_chain.csv
+
+# Raw data
+data/raw/
