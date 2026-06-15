@@ -6,8 +6,11 @@
 
 ## 🎬 Demo
 
-https://github.com/KirtanPatel18/supply-chain-intelligence/releases/download/v1.0/demo.mp4
-https://github.com/KirtanPatel18/supply-chain-intelligence/blob/main/assets/demo.mp4
+<video width="100%" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="assets/demo.mp4">Download the demo video</a>
+</video>
+
 > *Full walkthrough of the 6-page Streamlit app*
 
 ---
