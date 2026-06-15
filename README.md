@@ -6,7 +6,8 @@
 
 ## 🎬 Demo
 
-[https://github.com/KirtanPatel18/supply-chain-intelligence/assets/demo.mp4](https://github.com/KirtanPatel18/supply-chain-intelligence/blob/main/assets/demo.mp4)
+[https://github.com/KirtanPatel18/supply-chain-intelligence/assets/demo.mp4]()
+<video src="[https://github.com](https://github.com/KirtanPatel18/supply-chain-intelligence/blob/main/assets/demo.mp4)" width="100%" controls></video>
 
 > *Full walkthrough of the 6-page Streamlit app*
 
