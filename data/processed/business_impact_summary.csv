@@ -1,0 +1,2 @@
+Total_Orders,Late_Orders,Late_Rate_Pct,Total_Revenue,Revenue_At_Risk,Risk_Pct,Avg_Order_Value,Orders_Saved_20pct,Revenue_Recovered,Best_Model,Model_Accuracy,Model_ROC_AUC
+180519,98977,54.83,36784735.01,20126395.27,54.71,203.77,19795.0,4033750.15,Random Forest,67.91,0.741

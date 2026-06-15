@@ -1,0 +1,2 @@
+Total_Revenue,Total_Profit,Profit_Margin_Pct,Total_Orders,Late_Orders,Late_Rate_Pct,Cancel_Rate_Pct,Avg_Delay_Days,Revenue_At_Risk,Total_Cost_Late,Cost_Pct_Revenue,High_Risk_Regions,Total_Regions,Model_ROC_AUC,Model_Recall,Orders_Preventable,Forecast_Accuracy_Pct,Forecast_Growth_Pct,Total_Savings,Impl_Cost,Net_ROI_Pct
+36784735.01,3966902.97,10.78,180519,98977,54.83,2.05,0.57,20126395.27,3685318.67,10.02,12,23,0.741,0.652,25813.0,92.8,6.23,1224131.62,62000,1874.41

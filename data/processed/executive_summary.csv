@@ -1,0 +1,20 @@
+Category,KPI,Value,Status
+Revenue,Total Revenue,"$36,784,735",✅
+Revenue,Total Profit,"$3,966,903",✅
+Revenue,Profit Margin,10.8%,✅
+Revenue,Revenue at Risk,"$20,126,395",🔴
+Delivery,Total Orders,"180,519",✅
+Delivery,Late Delivery Rate,54.8%,🔴
+Delivery,Cancellation Rate,2.0%,🟡
+Delivery,Avg Delay,0.57 days,🟡
+Supplier,Total Regions,23,✅
+Supplier,High Risk Regions,12 (52%),🔴
+Supplier,Supplier Rev at Risk,"$20,126,395",🔴
+ML Model,Model ROC-AUC,0.741,✅
+ML Model,Model Recall,65.2%,✅
+ML Model,Orders Preventable,"25,813",✅
+Forecast,Forecast Accuracy,92.8%,✅
+Forecast,Expected Growth,+6.2%,✅
+ROI,Total Savings,"$1,224,132",✅
+ROI,Implementation Cost,"$62,000",✅
+ROI,Net ROI,1874%,✅

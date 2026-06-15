@@ -1,0 +1,19 @@
+# Raw data — too large for GitHub
+data/raw/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db

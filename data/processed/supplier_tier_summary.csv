@@ -1,0 +1,4 @@
+Risk_Tier,Regions,Avg_Risk_Score,Avg_Late_Rate,Avg_Delay,Avg_Cancel,Total_Revenue,Total_Risk_Rev,Late_Rate_Pct,Cancel_Rate_Pct
+High Risk,12,71.77,0.558,0.589,0.02,21116797.254,11723072.564,55.8,2.0
+Low Risk,1,13.82,0.488,0.391,0.024,186861.044,90671.022,48.8,2.4
+Medium Risk,10,56.493,0.539,0.543,0.021,15481076.716,8312651.679,53.9,2.1

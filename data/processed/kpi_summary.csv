@@ -1,0 +1,11 @@
+KPI,Value,Format
+Total Revenue,36784735.01337984,currency
+Revenue at Risk,20126395.26523882,currency
+Late Delivery Rate,54.82913155955883,percent
+High Risk Regions,12.0,number
+Total Cost of Delays,3685318.6685667178,currency
+Orders Preventable,25813.2016,number
+Total Savings,1224131.6185985473,currency
+Net ROI,1874.4058364492698,percent
+Forecast Accuracy,92.8,percent
+Forecast Growth,6.232805129386904,percent

@@ -1,0 +1,24 @@
+Order Region,Late_Rate,Avg_Delay,Order_Count
+Canada,0.488,0.391,959
+Caribbean,0.531,0.547,8318
+Central Africa,0.58,0.64,1677
+Central America,0.548,0.562,28341
+Central Asia,0.553,0.646,553
+East Africa,0.559,0.571,1852
+East of USA,0.557,0.585,6915
+Eastern Asia,0.543,0.566,7280
+Eastern Europe,0.557,0.58,3920
+North Africa,0.545,0.552,3232
+Northern Europe,0.54,0.547,9792
+Oceania,0.54,0.556,10148
+South America,0.543,0.556,14935
+South Asia,0.563,0.597,7731
+South of  USA ,0.558,0.58,4045
+Southeast Asia,0.555,0.558,9539
+Southern Africa,0.533,0.479,1157
+Southern Europe,0.544,0.516,9431
+US Center ,0.552,0.587,5887
+West Africa,0.528,0.551,3696
+West Asia,0.553,0.569,6009
+West of USA ,0.54,0.557,7993
+Western Europe,0.558,0.597,27109
