@@ -7,8 +7,8 @@
 ## 🎬 Demo
 
 <video width="100%" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="assets/demo.mp4">Download the demo video</a>
+  <source src="https://raw.githubusercontent.com/KirtanPatel18/supply-chain-intelligence/main/assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="https://raw.githubusercontent.com/KirtanPatel18/supply-chain-intelligence/main/assets/demo.mp4">Download the demo video</a>
 </video>
 
 > *Full walkthrough of the 6-page Streamlit app*
